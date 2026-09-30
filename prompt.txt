@@ -85,6 +85,7 @@ from_chat_id و message_id
 
 bot_token = ""
 admins = ["admin1","admin2"]
+bot_username = "mybot"
 
 یک روت /init هم براش بساز که وقتی اجرا میشه وبهوک ست بشه همچنین تیبل های دیتابیس ساخته بشن
 
